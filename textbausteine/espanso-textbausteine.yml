@@ -1,0 +1,9 @@
+# Espanso-Textbausteine
+# Ablage auf dem Mac: ~/Library/Application Support/espanso/match/textbausteine.yml
+matches:
+  - trigger: ";uiu"
+    replace: "Unterstützung im Unterricht"
+
+  # Weitere Bausteine einfach nach diesem Muster ergänzen:
+  # - trigger: ";mfg"
+  #   replace: "Mit freundlichen Grüßen"
